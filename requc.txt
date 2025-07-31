@@ -1,0 +1,5 @@
+matplotlib==3.10.5
+rich==14.0.0
+wordcloud==1.9.4
+youtube-transcript-api==1.2.1
+
